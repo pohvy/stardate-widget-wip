@@ -1,0 +1,17 @@
+Example
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: -475px;
+  right: 300px;
+  font-size: 235px;
+  color: #bdd4ff;
+  font-family: 'Antonio', sans-serif;
+}
