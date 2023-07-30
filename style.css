@@ -6,8 +6,8 @@
 
 .bottom-right {
   position: absolute;
-  bottom: -75px;
-  right: 300px;
+  bottom: 10px;
+  right: 10px;
   font-size: 235px;
   color: #bdd4ff;
   font-family: 'Antonio', sans-serif;
