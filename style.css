@@ -6,9 +6,9 @@
 
 .bottom-right {
   position: absolute;
-  bottom: 10px;
-  right: 10px;
-  font-size: 235px;
+  bottom: 325px;
+  right: 300px;
+  font-size: 215px;
   color: #bdd4ff;
   font-family: 'Antonio', sans-serif;
 }
