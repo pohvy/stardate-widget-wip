@@ -6,7 +6,7 @@
 
 .bottom-right {
   position: absolute;
-  bottom: -500px;
+  bottom: 500px;
   right: 10px;
   font-size: 235px;
   color: #bdd4ff;
